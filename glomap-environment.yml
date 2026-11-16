@@ -1,0 +1,43 @@
+# Native build dependencies for the cloned GLOMAP repository.
+# CUDA variables below reference the existing toolkit on this host.
+# COLMAP and PoseLib sources are fetched by GLOMAP during its later build.
+name: glomap
+channels:
+  - conda-forge
+dependencies:
+  - flann
+  - glew
+  - gtest
+  - cuda-version=12.9
+  - git
+  - libglu
+  - ccache
+  - pkg-config
+  - glog
+  - ninja
+  - gcc_linux-64=14
+  - gflags
+  - python=3.11
+  - gmock
+  - libboost-devel=1.84
+  - gxx_linux-64=14
+  - cgal-cpp=5.6.1
+  - freeimage
+  - sqlite
+  - suitesparse[version='>=7,<8']
+  - libgl-devel
+  - libcurl
+  - openssl
+  - metis
+  - cmake[version='>=3.28,<4']
+  - eigen=3.4
+  - libopengl-devel
+  - ceres-solver=2.2
+variables:
+  CUDA_HOME: /usr/local/cuda-12.9
+  CUDA_PATH: /usr/local/cuda-12.9
+  CUDAToolkit_ROOT: /usr/local/cuda-12.9
+  CUDACXX: /usr/local/cuda-12.9/bin/nvcc
+  CUDAHOSTCXX: 
+    /local/compvis/dilshara/miniforge3/envs/glomap/bin/x86_64-conda-linux-gnu-g++
+  CMAKE_PREFIX_PATH: /local/compvis/dilshara/miniforge3/envs/glomap

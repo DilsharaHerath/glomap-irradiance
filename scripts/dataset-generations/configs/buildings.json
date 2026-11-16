@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "coordinate_system": "+Y up; +Z north; -X east; metres",
+  "source": "drone-prep-new/facade_data/340m/buildings.json",
+  "buildings": [
+    {
+      "id": "SM_Building_17_01_LOD0",
+      "bbox_min": [
+        -82.26832580566406,
+        -0.11561615765094757,
+        -99.56018829345703
+      ],
+      "bbox_max": [
+        -68.16831970214844,
+        28.21581268310547,
+        -89.4601821899414
+      ],
+      "center": [
+        -75.21832275390625,
+        14.05009826272726,
+        -94.51018524169922
+      ],
+      "size": [
+        14.100006103515625,
+        28.331428840756416,
+        10.100006103515625
+      ],
+      "vertex_count": 7575,
+      "parts": [
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0-MI_Windows_Tall_3x6.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0-MI_Windows_Tall_3x6",
+          "material": "mat-MI_Windows_Tall_3x6"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0-MI_ConcreteFloor_Bare_01.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0-MI_ConcreteFloor_Bare_01",
+          "material": "mat-MI_ConcreteFloor_Bare_01"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0-MI_Tiles_Ceramic_Brown_01.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0-MI_Tiles_Ceramic_Brown_01",
+          "material": "mat-MI_Tiles_Ceramic_Brown_01"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0-MI_ConcretePanels_Painted.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0-MI_ConcretePanels_Painted",
+          "material": "mat-MI_ConcretePanels_Painted"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0-MI_Marble_01_White.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0-MI_Marble_01_White",
+          "material": "mat-MI_Marble_01_White"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0-MI_Windows_Tall_Apartments_01.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0-MI_Windows_Tall_Apartments_01",
+          "material": "mat-MI_Windows_Tall_Apartments_01"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0-MI_Paneling_Gray.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0-MI_Paneling_Gray",
+          "material": "mat-MI_Paneling_Gray"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0-MI_Windows_Tall_Hallway_01.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0-MI_Windows_Tall_Hallway_01",
+          "material": "mat-MI_Windows_Tall_Hallway_01"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0-MI_Balcony_Apartments_01.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0-MI_Balcony_Apartments_01",
+          "material": "mat-MI_Balcony_Apartments_01"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0-MI_Door_Single_01.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0-MI_Door_Single_01",
+          "material": "mat-MI_Door_Single_01"
+        }
+      ],
+      "materials": [
+        "mat-MI_Balcony_Apartments_01",
+        "mat-MI_ConcreteFloor_Bare_01",
+        "mat-MI_ConcretePanels_Painted",
+        "mat-MI_Door_Single_01",
+        "mat-MI_Marble_01_White",
+        "mat-MI_Paneling_Gray",
+        "mat-MI_Tiles_Ceramic_Brown_01",
+        "mat-MI_Windows_Tall_3x6",
+        "mat-MI_Windows_Tall_Apartments_01",
+        "mat-MI_Windows_Tall_Hallway_01"
+      ],
+      "red_material_hint": false,
+      "scope": "building/highrise-named material parts and colocated LOD aliases; separately named props are excluded"
+    },
+    {
+      "id": "SM_Building_17_01_LOD0_28",
+      "bbox_min": [
+        -217.76829528808594,
+        -0.11561234295368195,
+        -164.5601806640625
+      ],
+      "bbox_max": [
+        -203.6682891845703,
+        28.215816497802734,
+        -154.46017456054688
+      ],
+      "center": [
+        -210.71829223632812,
+        14.050102077424526,
+        -159.5101776123047
+      ],
+      "size": [
+        14.100006103515625,
+        28.331428840756416,
+        10.100006103515625
+      ],
+      "vertex_count": 7575,
+      "parts": [
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0_28-MI_Windows_Tall_3x6.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0_28-MI_Windows_Tall_3x6",
+          "material": "mat-MI_Windows_Tall_3x6"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0_28-MI_ConcreteFloor_Bare_01.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0_28-MI_ConcreteFloor_Bare_01",
+          "material": "mat-MI_ConcreteFloor_Bare_01"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0_28-MI_Tiles_Ceramic_Brown_01.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0_28-MI_Tiles_Ceramic_Brown_01",
+          "material": "mat-MI_Tiles_Ceramic_Brown_01"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0_28-MI_ConcretePanels_Painted.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0_28-MI_ConcretePanels_Painted",
+          "material": "mat-MI_ConcretePanels_Painted"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0_28-MI_Marble_01_White.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0_28-MI_Marble_01_White",
+          "material": "mat-MI_Marble_01_White"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0_28-MI_Windows_Tall_Apartments_01.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0_28-MI_Windows_Tall_Apartments_01",
+          "material": "mat-MI_Windows_Tall_Apartments_01"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0_28-MI_Paneling_Gray.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0_28-MI_Paneling_Gray",
+          "material": "mat-MI_Paneling_Gray"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0_28-MI_Windows_Tall_Hallway_01.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0_28-MI_Windows_Tall_Hallway_01",
+          "material": "mat-MI_Windows_Tall_Hallway_01"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0_28-MI_Balcony_Apartments_01.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0_28-MI_Balcony_Apartments_01",
+          "material": "mat-MI_Balcony_Apartments_01"
+        },
+        {
+          "filename": "meshes/SM_Building_17_01_LOD0_28-MI_Door_Single_01.ply",
+          "shape_id": "mesh-SM_Building_17_01_LOD0_28-MI_Door_Single_01",
+          "material": "mat-MI_Door_Single_01"
+        }
+      ],
+      "materials": [
+        "mat-MI_Balcony_Apartments_01",
+        "mat-MI_ConcreteFloor_Bare_01",
+        "mat-MI_ConcretePanels_Painted",
+        "mat-MI_Door_Single_01",
+        "mat-MI_Marble_01_White",
+        "mat-MI_Paneling_Gray",
+        "mat-MI_Tiles_Ceramic_Brown_01",
+        "mat-MI_Windows_Tall_3x6",
+        "mat-MI_Windows_Tall_Apartments_01",
+        "mat-MI_Windows_Tall_Hallway_01"
+      ],
+      "red_material_hint": false,
+      "scope": "building/highrise-named material parts and colocated LOD aliases; separately named props are excluded"
+    }
+  ]
+}

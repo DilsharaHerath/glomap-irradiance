@@ -1,0 +1,4 @@
+# For an existing Python 3.11 rendering environment (env_1 already has these).
+numpy>=1.26,<3
+Pillow>=10,<14
+mitsuba==3.9.1

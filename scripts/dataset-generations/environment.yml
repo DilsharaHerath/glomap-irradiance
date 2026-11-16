@@ -1,0 +1,10 @@
+name: glomap-render
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=1.26,<3
+  - pillow>=10,<14
+  - pip
+  - pip:
+      - mitsuba==3.9.1

@@ -1,0 +1,14 @@
+{
+  "source_directory": "/local/compvis/dilshara/solar-drone/drone-prep-new",
+  "sha256": {
+    "facade-camera-grid_4ODGS_withpanels-completed.ipynb": "52dbad8e4305069854e44cdf7a7df8d2bcfaefaa642c4315b148ef1048c77257",
+    "building_geometry.py": "bb9c60b264882460ce09ac55399b1a919d6d60842f30b24471b1020398f660bd",
+    "render_city.py": "490caacefaa753121ace237ef036eb5040725a5d16070c1afaecc7b867cacd1c",
+    "odgs_render_withpanels.py": "da2fd5c850fb49f715efad12f15cd4ce8262f3b172cf58b0aae86705024a5883",
+    "facade_data/340m/buildings.json": "0c1440f0493e2ea88158770a3b96306a914f3c00f354e77fbf60c956234f9c5a",
+    "made_seqs.json": "f23dc8b0cccede9b36741826d0f0f76ffedba34d9f500c9279626bd3d02ee357"
+  },
+  "active_notebook_target": "north_28",
+  "historical_target": "east",
+  "notes": "Only the active north target is selected by default. East is documented in made_seqs.json."
+}
